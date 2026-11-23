@@ -9,34 +9,24 @@
 
 <p align="center">
   <a href="https://nullrunners.space"><img src="https://img.shields.io/badge/nullrunners.space-111111?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=PosterWAD&style=for-the-badge&color=1f6feb&label=Profile+views" />
 </p>
 
 ---
 
-### 🧑‍💻 About me
-
-- 🎓 Computer Science (B.Eng.) student at **Rzeszów University of Technology**
-- 🔧 Learning **embedded C/C++** on **STM32** and **ESP32**
-- 🔥 Backend & bug hunting in team **[nullRunners](https://github.com/Nullrunners)**
-- 🏆 Hackathons: **NASA Space Apps Challenge 2026**, **HackNation 2026**
-- 🌍 Rzeszów, Poland · 🇵🇱 / 🇬🇧
-
 ### 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,vue,js,html,css,git,github,linux,vscode&perline=12" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python&perline=12" />
 </p>
 
 ### 🚀 Featured projects
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔥 [When It Burns](https://nullrunners.space) | Fire-activity calendar built from NASA FIRMS (MODIS/VIIRS) detections — NASA Space Apps 2026 | Backend, ML |
-| ❤️ [Mapa Serc](https://github.com/Nullrunners/mapa-serca-mobile) | Merging AED defibrillator data into one map — "Misja AED" challenge | Mobile |
-| 🧮 [Matrix Calculator](https://github.com/PosterWAD/Matrix-Calculator-C-) | Matlab-like matrix calculator with expression input (`A+B`), OOP & polymorphism | C++ |
-| 🗄️ [C Database Project](https://github.com/PosterWAD/C-Database-Project) | Simple database written in pure C | C |
-| 🧩 [LeetCode Challenges](https://github.com/PosterWAD/LeetCode-Challenges) | My LeetCode solutions | C++ |
+| 🔥 [When It Burns](https://nullrunners.space)
+| ❤️ [Mapa Serc](https://github.com/Nullrunners/mapa-serca-mobile)
+| 🧮 [Matrix Calculator](https://github.com/PosterWAD/Matrix-Calculator-C-)
+| 🗄️ [C Database Project](https://github.com/PosterWAD/C-Database-Project)
 
 ### 📊 GitHub stats
 
