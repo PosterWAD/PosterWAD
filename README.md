@@ -25,7 +25,7 @@
 ### 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,vue,js,html,css,opengl,git,github,linux,vscode&perline=13" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,vue,js,html,css,git,github,linux,vscode&perline=12" />
 </p>
 
 ### 🚀 Featured projects
