@@ -18,16 +18,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python&perline=12" />
 </p>
-
-### 🚀 Featured projects
-
-| Project |
-|---|
-| 🔥 [When It Burns](https://nullrunners.space)
-| ❤️ [Mapa Serc](https://github.com/Nullrunners/mapa-serca-mobile)
-| 🧮 [Matrix Calculator](https://github.com/PosterWAD/Matrix-Calculator-C-)
-| 🗄️ [C Database Project](https://github.com/PosterWAD/C-Database-Project)
-
 ### 📊 GitHub stats
 
 <p align="center">
